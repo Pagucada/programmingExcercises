@@ -1,5 +1,9 @@
 function areValidParenthesis(string_1) 
 	{
+
+		// This function requires a string of parenthesis which could be [] {} () 
+		// and evaluates wether they are or not correctly organized, if not returns false, if yes true.
+
 		a = '(';
 		a1 = ')';
 		b = '[';
