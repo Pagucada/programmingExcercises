@@ -7,5 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'Andrés Cúneo';
-  pageTitle = 'Andrés Cúneo - Bajista';
+  description = 'Andrés Cúneo - Bajista profesional con una alta trayectoria con exceso de flow... ';
 }
